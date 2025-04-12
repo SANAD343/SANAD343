@@ -18,9 +18,10 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
 ## 🧰 **Tech Stack**
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **DataBase:** MySQL, PostgreSQL
 - **Visualization Tools:** Power BI, Matplotlib, Seaborn, Excel (Pivot Tables, Charts)
 - **Data Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Design, Reporting
-- **Others:** Version Control (Git/GitHub)
+- **Machine Learning:** Supervised learning, Unsupervised Learning
 
 ---
 
@@ -28,6 +29,7 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
 
 - Advanced SQL techniques
 - Time-series analysis
+- Deep Learning (ANN, RNN, NN)
 - Building interactive dashboards with Power BI
 
 ---
